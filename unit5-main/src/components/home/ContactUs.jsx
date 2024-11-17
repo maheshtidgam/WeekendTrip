@@ -1,5 +1,5 @@
 import React from "react";
-import "./contactus.css"; // Import your custom CSS file
+import "./ContactUs.css"; // Import your custom CSS file
 
 const ContactContainer = () => {
   return (
