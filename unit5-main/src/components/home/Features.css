@@ -37,14 +37,14 @@
 
 
   #feature-card1{
-    background-image: url("ooty.jpg");
+    background-image: url("unit5-main/public/ooty.jpg");
     background-size:cover;
   
     color: black;
 
   }
   #feature-card2{
-    background-image: url("manali.jpg");
+    background-image: url("unit5-main/public/manali.jpg");
     background-size: cover;
     
     
@@ -53,7 +53,7 @@
   }
   #feature-card3{
     
-    background-image: url("goa.jpg");
+    background-image: url("unit5-main/public/goa.jpg");
     background-size: cover;
     
     color: black;
