@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./destinationGallery.css";
+import "./DestinationGallery.css";
 
 const destinationImages = [
   { imageName: "paris.jpeg", place: "Paris, France" },
