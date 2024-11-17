@@ -1,0 +1,94 @@
+
+.header-container {
+  background-image: url('homePage-poster2.jpg'); 
+  background-size: contain; 
+  font-family: 'Times ';
+ 
+  color: white;
+  padding: 60px 0px;
+  text-align: center;
+  width:100%;
+  
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  transition: transform 0.3s ease-in-out; 
+}
+
+
+
+
+.header-container h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+  font-family: 'Times ';
+  transition: transform 0.3s ease-in-out;
+  color: white;
+}
+
+.header-container h1:hover {
+  transform: translateY(-10px); 
+  color: green;
+}
+
+.header-container p {
+  font-size: 1.5rem;
+  margin-top: 0;
+  font-style: italic;
+  transition: color 0.3s ease-in-out; 
+}
+
+.header-container p:hover {
+  color: #ffcc00; 
+}
+
+.hero-container{
+  width: 98.9%;
+}
+
+
+.hero-container:hover {
+  transform: scale(1.03); 
+}
+
+
+.hero-container h2 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease-in-out; 
+}
+
+.hero-container h2:hover {
+  transform: translateY(-10px); 
+}
+
+.hero-container p {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+  transition: color 0.3s ease-in-out; 
+}
+
+.hero-container p:hover {
+  color: #ffcc00; 
+}
+
+
+.hero-container button {
+  padding: 15px 30px;
+  width: fit-content;
+  margin: auto;
+  font-size: 1.2rem;
+  color: white;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s; 
+}
+
+.hero-container button:hover {
+  background-color: #45a049;
+  transform: translateY(-5px); 
+}
+
+.hero-container button:active {
+  transform: translateY(2px);
+}
