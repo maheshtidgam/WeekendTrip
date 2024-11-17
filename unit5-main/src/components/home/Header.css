@@ -1,6 +1,6 @@
 
 .header-container {
-  background-image: url('unit5-main/public/homePagePoster2.jpg'); 
+  background-image: url('/homePagePoster2.jpg'); 
   background-size: contain; 
   font-family: 'Times ';
  
